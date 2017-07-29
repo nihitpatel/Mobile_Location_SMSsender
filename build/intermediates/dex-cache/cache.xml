@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_01376e4b63da4ad0ba28f505f2af61ac1428eefc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_3dc88ca13dca7d33856923de7781d850a23f8c9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_10019ab5c37ec1cf7b2b8326028337eb8a2ce1e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_17c04c8d2adcf46ad9d3858d2e989d4f0b23df8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_c91387a439c4ada3d29095fd57f6728f141de61b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_4c2c690373c0461b19af7df11d999e3c420db7ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_264d09c4a2e41c94611876a2a1c27cd631ab4f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_3ade6f929a4f705ff78f052c354cb1d361d17202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0bb089b603e46c35b08d2d5886b013b75ba4231b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5cbc2e64ff0f01a743f0e86d0d8d98889d2f34a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_dce3d7b44d087fdb85fa5ceeb65b30b5c152e5b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5658dd7ed839ca17d28ecba71019d29df4601bf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_56835053e4407c7856215dd269b31b35ff884a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9ec800e5ef9f1c4c72cc86a589e896e6007d230d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\NAVIN\Desktop\AndroidApps\Location\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_18ea4294ebe5005c0bca18e741c0b2cba012ee35.jar" />
+    </item>
+
+</items>
